@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Josphat-Malombe
 - 👀 I’m interested in  Mostly Deep Learning,about neurons,Robotics,Space Exploration,and without forgetting Reinforcement Learning!
  
-- 🌱 I’m currently learning Machine Learning, Reinforcement Learning and generally Software Enginnering
+- 🌱 I’m currently learning Machine Learning,deep learning and AI in general
 - 💞️ I’m looking to collaborate on just cool stuffs
-- 📫 How to reach me Just say HII JOSPHAT WHATSAAP 254714474770
-- 😄 Pronouns: I am a He please
-- ⚡ Fun fact: The only introvert and shy person to win an award on best spoken speech
+- 📫 How to reach me Just say Hi JOSPHAT WHATSAAP 254714474770
+- 😄 Pronouns: He
+
 
 <!---
 Josphat-Malombe/Josphat-Malombe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
